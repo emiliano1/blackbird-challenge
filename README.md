@@ -51,3 +51,7 @@ This will be run in a unix-ish environment (OS X). If you choose to use a
 compiled language, please keep this in mind. (Dependency on Xcode is acceptable
 for objective-c solutions) Please use platform-agnostic constructs where
 possible (line-endings and file-path-separators are two problematic areas).
+
+Submission
+----------
+Please submit your solution by pushing up a branch to your Github repo and open a PR. Add Github users `amay` and `eagsalazar` as reviewers.
